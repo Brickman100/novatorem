@@ -2,6 +2,8 @@
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
 
+[![Spotify](https://now-playing-brickman100.vercel.app/api/spotify)](https://open.spotify.com/user/brickman100)
+
 &nbsp;<div align="center">
   [Fork](https://github.com/novatorem/novatorem/blob/main/SetUp.md) this [unlicensed](https://choosealicense.com/licenses/unlicense/) repository to recreate!<br><br>
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
